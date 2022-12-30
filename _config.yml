@@ -1,0 +1,34 @@
+title: Blue Armors
+description: Hands-on training that gives you the opportunity to learn by doing
+
+url: https://blog.bluearmors.com/
+baseurl: "/blog"
+paginate_path: "blog/page:num/"
+permalink: blog/blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: https://bluearmors.com/
+
+social:
+  github: bluearmors
+  twitter: Blue_Armors
+  email: m.alshehri@bluearmors.com
+  linkedin: blue-armors
+# https://www.linkedin.com/company/blue-armors/
+
+
+google_analytics: "UA-58263416-1"
+
+# disqus:
+#     shortname: brianmaierjr
