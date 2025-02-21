@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Every Cybersecurity Student Should Compete in the Collegiate Cyber Defense Competition (CCDC)"
+title:  "Why Every Cybersecurity Student Should Compete in CCDC"
 date:   2025-2-21
 ---
 
