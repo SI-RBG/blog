@@ -4,7 +4,7 @@ title:  "Why Every Cybersecurity Student Should Compete in the Collegiate Cyber 
 date:   2025-2-21
 ---
 
-<p class="intro"><span class="dropcap">A</span>s a consultant in the cybersecurity field, I have seen many educational programs and competitions that aim to prepare the next generation of professionals. However, few offer the comprehensive and practical experience provided by the Collegiate Cyber Defense Competition (CCDC). This competition is a critical proving ground for any serious cybersecurity student.
+<p class="intro"><span class="dropcap">A</span>s a consultant in the cybersecurity field, I have seen many educational programs and competitions that aim to prepare the next generation of professionals. However, few offer the comprehensive and practical experience provided by the Collegiate Cyber Defense Competition (CCDC). This competition is a critical proving ground for any serious cybersecurity student.</p>
 
 CCDC provides a unique venue where college teams face off to manage and secure a network infrastructure that simulates a real corporate environment. During the competition, teams are tasked with defending their network against a group of professional hackers (the red team), who challenge their technical and decision-making skills.
 
